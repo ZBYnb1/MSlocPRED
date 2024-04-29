@@ -1,6 +1,9 @@
 # MSlocPRED
 This MATLAB software package is used to predict subcellular localization of multi-labeled mRNAs.
 
+The model in the file is uploaded using git lfs, if you need to download the full file content method:
+git lfs clone git@github.com:ZBYnb1/MSlocPRED.git
+
 Usage of this MATLAB software package:
 
 (1) Prepare your sequence(s) file in fasta format and name it “example.txt”;
